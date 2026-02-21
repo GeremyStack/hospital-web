@@ -34,9 +34,10 @@
 |----------|---------|--------------|
 | HTML5 | JavaScript | Git |
 | CSS3 | Chart.js | GitHub Pages |
-| JavaScript | | |
+| JavaScript |    |     |
 
 ---
+
 🎯 ¿Te Gusta Este Proyecto?
 Estoy disponible para crear sitios web similares para tu negocio.
 
